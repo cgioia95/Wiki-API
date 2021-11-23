@@ -1,2 +1,2 @@
 # Wiki-API
-Basic RESTful API for articles. 
+Basic RESTful API for retrieving articles. 
